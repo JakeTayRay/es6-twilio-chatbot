@@ -6,4 +6,11 @@ A popular theme for the upcoming Halloween holiday is to make haunted house simu
 
 To run this you can visit the heroku site - https://chatbot-jtaylorray4223.herokuapp.com/
 
+If you would prefer to build this yourself, you just need to download the folder and run two commands in your terminal:
 
+npm install
+
+npm run start
+
+This will install the node packages needed to make the project run, and the npm run start will start the local host instance for you to
+then start the program.
